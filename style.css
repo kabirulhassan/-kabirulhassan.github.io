@@ -94,6 +94,7 @@ body
 	[class*="main"]
 	{
 		min-width: 100vh;
+		font-size:20px;
 		backgroud-color: black;
 	}
 }
