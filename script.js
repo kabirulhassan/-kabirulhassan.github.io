@@ -106,12 +106,12 @@ class Calculator
 		{
 			this.prevText.innerText = this.previousOperand.toString()
 		}
-		if(this.currText.innerText==="108")
-			this.prevText.innerText="Taposher"
-		if(this.currText.innerText==="420")
-			this.prevText.innerText="Sunit"
-		if(this.currText.innerText==="69")
-			this.prevText.innerText="Borolok Loves"
+// 		if(this.currText.innerText==="108")
+// 			this.prevText.innerText="Taposher"
+// 		if(this.currText.innerText==="420")
+// 			this.prevText.innerText="Sunit"
+// 		if(this.currText.innerText==="69")
+// 			this.prevText.innerText="Borolok Loves"
 	}
 }
 
