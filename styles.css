@@ -268,6 +268,9 @@ footer a {
 }
 
 @media screen and (max-width: 768px) {
+  #home{
+    background-size: 50vh !important;
+  }
   .title {
     margin-top: -100%;
   }
@@ -275,4 +278,13 @@ footer a {
   .name {
     font-size: 3rem;
   }
+}
+
+#home{
+  background-image: url("./asstes/tree-and-wave.png");
+  background-size: 80vh;
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
 }
